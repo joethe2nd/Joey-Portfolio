@@ -6,7 +6,7 @@
 
 
 ## Contents
-- [Resume] (RESUME.md)
+- [Resume](RESUME.md)
 
 
 
