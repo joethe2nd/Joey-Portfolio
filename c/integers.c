@@ -12,5 +12,6 @@ int main() {
 	printf("%i\n", x);
 	float y = 25 / 4;
 	printf("%i\n", y);
+	printf("Haha funny edit");
 	return 0;
 }
